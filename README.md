@@ -1,4 +1,4 @@
-# ToDo_List\
+# ToDo_List
 
 1. HTML Structure:
 Bootstrap Navbar:
